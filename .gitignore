@@ -3,3 +3,5 @@ logs/
 
 # macOS Finder metadata
 .DS_Store
+*.pages
+.DS_Store
