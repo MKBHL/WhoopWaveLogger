@@ -1,0 +1,5 @@
+# Private project logs: kept locally, never pushed
+logs/
+
+# macOS Finder metadata
+.DS_Store
